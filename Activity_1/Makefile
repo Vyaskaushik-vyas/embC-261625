@@ -1,12 +1,9 @@
-PROJ_NAME = ActivityOne
+PROJ_NAME = Activity_1
 
 BUILD_DIR = Build
 
 # All Source code files
-SRC = ActivityOne.c
-
-# All header file paths
-INC = -I inc
+SRC = main.c
 
 #Avrdude
 AVRDUDE := avrdude

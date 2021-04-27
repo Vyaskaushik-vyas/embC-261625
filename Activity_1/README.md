@@ -7,7 +7,7 @@ this repositry was made in the sole purpose of submission of out embedded C acti
 
 |ON|OFF|
 |:--:|:--:|
-|![ON](simulation/Simulation_ON.PNG)|![OFF](simulation/Simulation_OFF.PNG)|
+|![ON](simulation/activity1img2.PNG)|![OFF](simulation/Activity1img1.PNG)|
 
 #### CI and Code Quality
 

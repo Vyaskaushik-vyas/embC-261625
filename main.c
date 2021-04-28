@@ -10,7 +10,7 @@
 
 int main(void)
 {
-    void inisialise_ports();
+    inisialise_ports();
     init_ADC();
     uint16_t temp;
 

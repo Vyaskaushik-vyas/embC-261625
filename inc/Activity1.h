@@ -1,0 +1,9 @@
+#ifndef ACTIVITY1_H_INCLUDED
+#define ACTIVITY1_H_INCLUDED
+
+void inisialise_ports();//TO INITIALISE PORTS
+
+#define CHECKSEAT ((!(PIND&(1<<PD2))&&(!(PINC&(1<<PC2))))) //TO CHECK IF THE DRIVER IS SEATED AND THE HEATER IS ON
+
+
+#endif

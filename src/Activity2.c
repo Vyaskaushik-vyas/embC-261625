@@ -2,7 +2,7 @@
 #include "Activity2.h"
 #include <stdint.h>
 
-void init_ADC()
+void InitADC()
 {
     ADMUX=(1<<REFS0); //ADref=AVcc
     ADCSRA=(1<<ADEN)|(7<<ADPS0);
